@@ -58,6 +58,7 @@ github "stdlib",      "4.7.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
 
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 # github "elasticsearch", "2.8.0"
@@ -65,3 +66,39 @@ github "xquartz",     "1.2.1"
 # github "postgresql",  "4.0.1"
 # github "redis",       "3.1.0"
 # github "sysctl",      "1.0.1"
+github "vagrant", "3.3.4"
+github "virtualbox", "1.0.13"
+#customize osx
+github "osx", "2.8.0"
+github "packer", "0.6.1"
+github "iterm2", "1.2.5"
+#tunnelblick
+#firefox
+#libreoffice
+#python
+#vmware_fusion
+#arduino
+#go
+#sublime_text
+#sublime_text_2
+#skype
+#keepassx
+#sonos
+#thunderbird
+#chrome
+#slack
+#hipchat
+#adium
+#vlc
+#wget
+#sudo
+#screen
+#geoip
+#googledrive
+#googleearth
+#google_notifier
+#teamviewer
+#rbenv
+
+#missing stuff
+#lastpass
